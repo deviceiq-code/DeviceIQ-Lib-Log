@@ -19,10 +19,12 @@
     "dependencies": {
         "littlefs": "*",
         "deviceiq-code/DeviceIQ-Lib-DateTime": {
-            "git": "https://github.com/deviceiq-code/DeviceIQ-Lib-DateTime.git"
+            "type": "git",
+            "url": "https://github.com/deviceiq-code/DeviceIQ-Lib-DateTime.git"
         },
         "deviceiq-code/DeviceIQ-Lib-FileSystem": {
-            "git": "https://github.com/deviceiq-code/DeviceIQ-Lib-FileSystem.git"
+            "type": "git",
+            "url": "https://github.com/deviceiq-code/DeviceIQ-Lib-FileSystem.git"
         }
     },
     "frameworks": "*",
