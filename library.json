@@ -18,14 +18,8 @@
     "homepage": "https://github.com/deviceiq-code/DeviceIQ-Lib-Log",
     "dependencies": {
         "littlefs": "*",
-        "deviceiq-code/DeviceIQ-Lib-DateTime": {
-            "type": "git",
-            "url": "https://github.com/deviceiq-code/DeviceIQ-Lib-DateTime.git"
-        },
-        "deviceiq-code/DeviceIQ-Lib-FileSystem": {
-            "type": "git",
-            "url": "https://github.com/deviceiq-code/DeviceIQ-Lib-FileSystem.git"
-        }
+        "deviceiq-code/DeviceIQ-Lib-DateTime": "https://github.com/deviceiq-code/DeviceIQ-Lib-DateTime.git",
+        "deviceiq-code/DeviceIQ-Lib-FileSystem": "https://github.com/deviceiq-code/DeviceIQ-Lib-FileSystem.git"
     },
     "frameworks": "*",
     "platforms": "*",
